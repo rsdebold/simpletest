@@ -10,7 +10,7 @@
 
         <preference name="phonegap-version" value="3.6.3" />
 
-        <name>simpletest Config.xml</name>
+        <name>simpletest</name>
 
         <description>
         simple test for phonegap. 
