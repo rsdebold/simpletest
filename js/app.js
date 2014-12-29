@@ -13,5 +13,4 @@ $(document).ready(function(){
 	$(".current .back").remove();
 	$(".current .toolbar").prepend("<a href=\""+prev_element+"\" class=\"back\">Back</a>");
   });
-  alert(1);
 });
